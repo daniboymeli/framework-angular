@@ -1,0 +1,6 @@
+# Configuración de los archivos y carpetas del framework
+.idea
+.tmp
+client/bower_components
+dist
+node_modules
